@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "301529491668",
+    "project_id": "codemagic-demo-waleed",
+    "storage_bucket": "codemagic-demo-waleed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301529491668:android:f7098dc106ea7792483341",
+        "android_client_info": {
+          "package_name": "io.codemagic.waleedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301529491668-1sgh0bhai6qb5vgeh0q79i9rqpiohdpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.codemagic.waleedapp",
+            "certificate_hash": "642b3ca070c5beaf65b673f9785bc82940f57f3d"
+          }
+        },
+        {
+          "client_id": "301529491668-ui71lqs8j1bov27trmudpvn09bt7hm6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDim7xNgP7Kkkuuwyq0hsbBeP-691w0qz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301529491668-ui71lqs8j1bov27trmudpvn09bt7hm6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
